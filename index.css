@@ -4,6 +4,9 @@
     /* filter: grayscale(50%); */
     filter: saturate(150%);
 }
+#main {
+    margin-top: 5rem;
+}
 .text-platzi{
     color: #97c93e !important
 }
